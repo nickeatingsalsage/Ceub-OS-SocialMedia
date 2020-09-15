@@ -11,6 +11,7 @@ Twitter
 
 Facebook
 > Referência: https://developers.facebook.com/docs/pages/publishing
+
 Instagram: 
 
 #### Atividades 
@@ -41,7 +42,7 @@ Váriaveis de ambiente(.env)
   
   FACEBOOK_PAGE_ID:  Id da página do facebook no qual todas as publicações serão direcionadas.
 #### Notas
-Nada por aqui...
+Seria interessante criar no configure.py uma interface para inserir os tokens necessários automaticamente.
 
 
  
