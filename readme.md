@@ -36,7 +36,9 @@ FACEBOOK_PAGE_ID=[FACEBOOK PAGE ID]" >> .env
 Váriaveis de ambiente(.env)
 ###### Facebook
   FACEBOOK_CLIENT_SECRET: credencial para obter access_token.
+  
   FACEBOOK_CLIENT_ID: credencial para obter access_token, identifica o usuário.
+  
   FACEBOOK_PAGE_ID:  Id da página do facebook no qual todas as publicações serão direcionadas.
 #### Notas
 Nada por aqui...
