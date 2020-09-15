@@ -2,6 +2,8 @@
 
 Repositório oficial: https://github.com/aderbalbotelho/CEUB-OS
 
+Ainda não está funcionando!
+
 #### Integrações:
 
 Twitter 
